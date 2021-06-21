@@ -1,0 +1,2 @@
+# frontend
+Angular project frontend
